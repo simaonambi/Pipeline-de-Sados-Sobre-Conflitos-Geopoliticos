@@ -4,7 +4,7 @@ Web Crawler + Scraper automático do jornal **Público** focado em notícias
 de conflitos entre países que possam indicar uma escalada para a
 **Terceira Guerra Mundial**.
 
-Desenvolvido no âmbito do Lab 02 da UC de **Extração e Transformação de Dados**
+
 — Inteligência Artificial e Ciência de Dados @ DI/UBI.
 
 ---
