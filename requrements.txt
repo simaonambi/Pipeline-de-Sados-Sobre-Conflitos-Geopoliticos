@@ -1,0 +1,11 @@
+# requirements.txt
+# Lab 02 — Web Crawling + Scraping | DI @ UBI
+# Instalar com: pip install -r requirements.txt
+
+# ── HTTP & Parsing ────────────────────────────────
+requests==2.31.0          # requisições HTTP
+beautifulsoup4==4.12.3    # parsing de HTML
+lxml==5.1.0               # parser HTML mais rápido (usado pelo BS4)
+
+# ── Utilitários ───────────────────────────────────
+python-dateutil==2.9.0    # parsing flexível de datas

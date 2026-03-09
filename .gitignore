@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Outputs gerados automaticamente
+output/
+logs/
+
+# IDE
+.idea/
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini 
